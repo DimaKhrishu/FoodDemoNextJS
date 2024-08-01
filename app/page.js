@@ -13,7 +13,7 @@ export default function Home() {
         <div>
           <div className={classes.hero}>
             <h1>NextLevel Food using Next.js</h1>
-            <p>Taste and share food worldwide!!!!!!!!!</p>
+            <p>Taste and share food worldwide!</p>
           </div>
           <div className={classes.cta}>
             <Link href="/community">Join the community!</Link>
